@@ -1,0 +1,14 @@
+{
+  "name": "tw-npm",
+  "version": "1.0.0",
+  "description": "Instalando Tailwindcss desde npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Barcos",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
